@@ -1,0 +1,6 @@
+{
+  "name": "Visual Novel Game Engine",
+  "description": "A browser-based interactive story and visual novel game engine with custom volumes, chapters, transitions, BGM, and background media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
